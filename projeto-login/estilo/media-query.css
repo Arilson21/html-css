@@ -40,5 +40,9 @@
     div#formulario > p {
         font-size: 1.2em;
     }
+    
+    form > div#btn{
+        padding-top: 40px;
+    }
 }
 
